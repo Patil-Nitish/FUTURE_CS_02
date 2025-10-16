@@ -1,0 +1,38 @@
+# Recommended .gitignore for future development
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Logs
+*.log
+
+# Reports (if auto-generated)
+# reports/*.html
+# reports/*.pdf
+
+# Temporary analysis files
+/tmp/
+temp/
+*.temp

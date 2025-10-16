@@ -30,6 +30,8 @@ The focus of this project is on **security log analysis, threat detection, and i
 │ ├── TASK 2 Dashboard .png
 │ └── alert_classification - alert_classification.csv.csv
 ├── FUTURE_TASK_2.pdf
+├── REPOSITORY_ANALYSIS.md
+├── METRICS_SUMMARY.md
 └── README.md
 
 ```
@@ -39,6 +41,8 @@ The focus of this project is on **security log analysis, threat detection, and i
 ## 📑 Task Deliverables
 - [📄 PDF Report](./FUTURE_TASK_2.pdf) - Complete incident response report with email communications
 - [📂 Evidence Files](./Evidence) - Raw data and detection results
+- [📊 Repository Analysis](./REPOSITORY_ANALYSIS.md) - Comprehensive quantitative and qualitative analysis
+- [📈 Metrics Summary](./METRICS_SUMMARY.md) - Quick performance metrics and scorecard
 - **Email Communication Protocols** - Professional incident response messaging
 
 ---
